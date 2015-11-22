@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Introduction
 
 This second programming assignment will require you to write an R
@@ -103,3 +104,7 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+=======
+# GettingCleansingData
+Getting and Cleansing Data
+>>>>>>> 090d7101547fe9f4f997d20b1963e46ca3db3488
